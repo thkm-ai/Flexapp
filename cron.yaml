@@ -1,0 +1,4 @@
+cron:
+- description: "Run Google Colab once a day"
+  url: "/api/run_colab"
+  schedule: "every day 00:00"
